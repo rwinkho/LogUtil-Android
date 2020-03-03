@@ -1,4 +1,4 @@
-package com.rwin.kho.logutilexample;
+package com.rwin.kho.logutil;
 
 import android.util.Log;
 
